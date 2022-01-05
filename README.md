@@ -2,4 +2,4 @@
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project related to Python
-- 📫 How to reach me on my email abhichaudhari@protonmail.com
+- 📫 Reach me on my email abhichaudhari@protonmail.com
